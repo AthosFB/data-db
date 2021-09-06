@@ -32,9 +32,9 @@ function ent1() {
     img2.style.marginTop = "0px"
     img3.style.marginTop = "0px"
 
-    img1.style.boxShadow = "0px 0px 0px 6px rgb(214, 61, 228)"
-    img2.style.boxShadow = "0px 0px 0px 0px rgb(214, 61, 228)"
-    img3.style.boxShadow = "0px 0px 0px 0px rgb(214, 61, 228)"
+    img1.style.boxShadow = "0px 0px 0px 6px rgb(165, 90, 56)"
+    img2.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
+    img3.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
 
     img2.style.marginLeft = "55px"
     img3.style.marginLeft = "55px"
@@ -63,9 +63,9 @@ function ent2() {
     img2.style.marginLeft = "200px"
     img3.style.marginTop = "0px"
 
-    img2.style.boxShadow = "0px 0px 0px 6px rgb(214, 61, 228)"
-    img1.style.boxShadow = "0px 0px 0px 0px rgb(214, 61, 228)"
-    img3.style.boxShadow = "0px 0px 0px 0px rgb(214, 61, 228)"
+    img2.style.boxShadow = "0px 0px 0px 6px rgb(165, 90, 56)"
+    img1.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
+    img3.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
 
     img1.style.marginLeft = "55px"
     img3.style.marginLeft = "55px"
@@ -95,9 +95,9 @@ function ent3() {
     img2.style.marginTop = "0px"
     img3.style.marginLeft = "200px"
 
-    img3.style.boxShadow = "0px 0px 0px 6px rgb(214, 61, 228)"
-    img1.style.boxShadow = "0px 0px 0px 0px rgb(214, 61, 228)"
-    img2.style.boxShadow = "0px 0px 0px 0px rgb(214, 61, 228)"
+    img3.style.boxShadow = "0px 0px 0px 6px rgb(165, 90, 56)"
+    img1.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
+    img2.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
 
     img1.style.marginLeft = "55px"
     img2.style.marginLeft = "55px"
@@ -131,9 +131,9 @@ function entbusc() {
     img2.style.marginLeft = "60px"
     img3.style.marginLeft = "60px"
 
-    img1.style.boxShadow = "0px 0px 0px 0px rgb(214, 61, 228)"
-    img2.style.boxShadow = "0px 0px 0px 0px rgb(214, 61, 228)"
-    img3.style.boxShadow = "0px 0px 0px 0px rgb(214, 61, 228)"
+    img1.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
+    img2.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
+    img3.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
 }
 function saiu() {
     m1.style.width = "420px"
@@ -174,7 +174,7 @@ function saiu() {
     img2.style.marginLeft = "105px"
     img3.style.marginLeft = "105px"
 
-    img1.style.boxShadow = "0px 0px 0px 2px rgb(214, 61, 228)"
-    img2.style.boxShadow = "0px 0px 0px 2px rgb(214, 61, 228)"
-    img3.style.boxShadow = "0px 0px 0px 2px rgb(214, 61, 228)"
+    img1.style.boxShadow = "0px 0px 0px 2px rgb(165, 90, 56)"
+    img2.style.boxShadow = "0px 0px 0px 2px rgb(165, 90, 56)"
+    img3.style.boxShadow = "0px 0px 0px 2px rgb(165, 90, 56)"
 }
