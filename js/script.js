@@ -22,22 +22,22 @@ function ent1() {
     vrm1.style.width = "0px"
     vrm1.style.height = "0px"
 
-    vrm2.style.marginTop = "0px"
+    vrm2.style.marginTop = "60px"
     vrm2.style.marginLeft = "50px"
 
-    vrm3.style.marginTop = "0px"
+    vrm3.style.marginTop = "60px"
     vrm3.style.marginLeft = "50px"
 
-    img1.style.marginLeft = "200px"
-    img2.style.marginTop = "0px"
-    img3.style.marginTop = "0px"
+    img1.style.marginLeft = "160px"
+    img2.style.marginTop = "20px"
+    img3.style.marginTop = "20px"
 
     img1.style.boxShadow = "0px 0px 0px 6px rgb(165, 90, 56)"
     img2.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
     img3.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
 
-    img2.style.marginLeft = "55px"
-    img3.style.marginLeft = "55px"
+    img2.style.marginLeft = "4px"
+    img3.style.marginLeft = "4px"
 }
 function ent2() {
     m2.style.width = "620px"
@@ -53,22 +53,22 @@ function ent2() {
     vrm2.style.width = "0px"
     vrm2.style.height = "0px"
 
-    vrm1.style.marginTop = "10px"
+    vrm1.style.marginTop = "60px"
     vrm1.style.marginLeft = "50px"
 
-    vrm3.style.marginTop = "10px"
+    vrm3.style.marginTop = "60px"
     vrm3.style.marginLeft = "50px"
 
-    img1.style.marginTop = "0px"
-    img2.style.marginLeft = "200px"
-    img3.style.marginTop = "0px"
+    img2.style.marginLeft = "160px"
+    img1.style.marginTop = "20px"
+    img3.style.marginTop = "20px"
 
     img2.style.boxShadow = "0px 0px 0px 6px rgb(165, 90, 56)"
     img1.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
     img3.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
 
-    img1.style.marginLeft = "55px"
-    img3.style.marginLeft = "55px"
+    img1.style.marginLeft = "4px"
+    img3.style.marginLeft = "4px"
 }
 function ent3() {
     m3.style.width = "620px"
@@ -76,7 +76,6 @@ function ent3() {
 
     m2.style.width = "320px"
     m2.style.height = "229px"
-    m2.style.marginTop = "100px"
 
     m1.style.width = "320px"
     m1.style.height = "229px"
@@ -85,22 +84,22 @@ function ent3() {
     vrm3.style.width = "0px"
     vrm3.style.height = "0px"
 
-    vrm1.style.marginTop = "10px"
-    vrm1.style.marginLeft = "50px"
-
-    vrm2.style.marginTop = "10px"
+    vrm2.style.marginTop = "60px"
     vrm2.style.marginLeft = "50px"
 
-    img1.style.marginTop = "0px"
-    img2.style.marginTop = "0px"
-    img3.style.marginLeft = "200px"
+    vrm1.style.marginTop = "60px"
+    vrm1.style.marginLeft = "50px"
+
+    img3.style.marginLeft = "160px"
+    img2.style.marginTop = "20px"
+    img1.style.marginTop = "20px"
 
     img3.style.boxShadow = "0px 0px 0px 6px rgb(165, 90, 56)"
-    img1.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
     img2.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
+    img1.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
 
-    img1.style.marginLeft = "55px"
-    img2.style.marginLeft = "55px"
+    img2.style.marginLeft = "4px"
+    img1.style.marginLeft = "4px"
 }
 function entbusc() {
     busc.style.width = "540px"
@@ -119,17 +118,17 @@ function entbusc() {
     vrm2.style.marginLeft = "60px"
     vrm3.style.marginLeft = "60px"
 
-    vrm1.style.marginTop = "0px"
-    vrm2.style.marginTop = "0px"
-    vrm3.style.marginTop = "0px"
+    vrm1.style.marginTop = "40px"
+    vrm2.style.marginTop = "40px"
+    vrm3.style.marginTop = "40px"
 
-    img1.style.marginTop = "0px"
-    img2.style.marginTop = "0px"
-    img3.style.marginTop = "0px"
+    img1.style.marginTop = "20px"
+    img2.style.marginTop = "20px"
+    img3.style.marginTop = "20px"
 
-    img1.style.marginLeft = "60px"
-    img2.style.marginLeft = "60px"
-    img3.style.marginLeft = "60px"
+    img1.style.marginLeft = "10px"
+    img2.style.marginLeft = "10px"
+    img3.style.marginLeft = "10px"
 
     img1.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
     img2.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
@@ -141,7 +140,7 @@ function saiu() {
 
     m2.style.width = "420px"
     m2.style.height = "300px"
-    m2.style.marginTop = "82px"
+    m2.style.marginTop = "100px"
 
     m3.style.width = "420px"
     m3.style.height = "300px"
@@ -159,20 +158,20 @@ function saiu() {
     vrm3.style.width = "210px"
     vrm3.style.height = "40px"
 
-    vrm1.style.marginTop = "10px"
+    vrm1.style.marginTop = "60px"
     vrm1.style.marginLeft = "105px"
-    vrm2.style.marginTop = "10px"
+    vrm2.style.marginTop = "60px"
     vrm2.style.marginLeft = "105px"
-    vrm3.style.marginTop = "10px"
+    vrm3.style.marginTop = "60px"
     vrm3.style.marginLeft = "105px"
 
-    img1.style.marginTop = "50px"
-    img2.style.marginTop = "50px"
-    img3.style.marginTop = "50px"
+    img1.style.marginTop = "60px"
+    img2.style.marginTop = "60px"
+    img3.style.marginTop = "60px"
 
-    img1.style.marginLeft = "105px"
-    img2.style.marginLeft = "105px"
-    img3.style.marginLeft = "105px"
+    img1.style.marginLeft = "52.5px"
+    img2.style.marginLeft = "52.5px"
+    img3.style.marginLeft = "52.5px"
 
     img1.style.boxShadow = "0px 0px 0px 2px rgb(165, 90, 56)"
     img2.style.boxShadow = "0px 0px 0px 2px rgb(165, 90, 56)"
