@@ -1,0 +1,143 @@
+body {
+    background-color: rgb(113, 26, 163);
+}
+div#c {
+    width: 1650px;
+    height: 1800px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(214, 61, 228);
+
+}
+h1#title {
+    font: normal 80px Cursive;
+    text-align: center;
+    margin-left: 100px;
+    width: 1650px;
+    height: 110px;
+    line-height: 110px;
+    border-radius: 20px;
+}
+p#form {
+    font: normal 25px Cursive;
+    float: right;
+    margin-right: 150px;
+}
+p#form2 {
+    font: normal 25px Cursive;
+    float: left;
+    margin-left: 150px;
+}
+div#cabeca2 {
+    box-shadow: 0px 0px 0px 20px rgb(214, 61, 228);
+    width: 1610px;
+    background-color: white;
+    margin-left: 20px;
+    border-radius: 2px
+}
+img#gifmd {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+div#col1 {
+    height: 18px;
+    background-color: rgb(214, 61, 228);
+    box-shadow: 0px 0px 0px rgb(214, 61, 228);
+}
+div#col2 { 
+    height: 18px;
+    background-color: rgb(214, 61, 228);
+    box-shadow: 0px 0px 0px rgb(214, 61, 228);
+    float: right;
+}
+div#cabeca2 {
+    font: normal 17px Courier;
+}
+div#col3 {
+    background-color: rgb(214, 61, 228);
+    height: 150px;
+    width: 30px;
+    float: left;
+    margin-left: 652px;
+}
+div#col4 {
+    background-color: rgb(214, 61, 228);
+    height: 150px;
+    width: 30px;
+    float: right;
+    margin-right: 652px;
+}
+strong#txtcol1 {
+    float: left;
+}
+div#md1 {
+    background-color: white;
+    height: 300px;
+    width: 420px;
+    margin-left: 20px;
+    margin-top: 100px;
+    float: left;
+    border-radius: 20px;
+}
+div#md2 {
+    background-color: white;
+    height: 300px;
+    width: 420px;
+    margin-left: 20px;
+    margin-top: 82px;
+    float: left;
+    border-radius: 20px;
+}
+div#md3 {
+    background-color: white;
+    height: 300px;
+    width: 420px;
+    margin-left: 20px;
+    margin-top: 82px;
+    float: left;
+    border-radius: 20px;
+}
+div#busca {
+    background-color: rgb(44, 42, 42);
+    width: 300px;
+    height: 1500px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 82px;
+    border-radius: 20px;
+}
+div#vrm1 {
+    background-color: rgb(44, 42, 42);
+    width: 210px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 10px;
+    margin-left: 105px;
+    color: rgb(214, 61, 228);
+}
+div#vrm2 {
+    background-color: rgb(44, 42, 42);
+    width: 210px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 10px;
+    margin-left: 105px;
+    color: rgb(214, 61, 228);
+}
+div#vrm3 {
+    background-color: rgb(44, 42, 42);
+    width: 210px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 10px;
+    margin-left: 105px;
+    color: rgb(214, 61, 228);
+}
+img.mdimg {
+    margin-left: 105px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 0px 2px rgb(214, 61, 228);
+}
