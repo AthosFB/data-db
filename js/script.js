@@ -54,7 +54,7 @@ function ent1() {
 
 
     sai1.innerText = "Sair"
-    comp1.innerText = "Comprar"
+    comp1.innerText = "Ver Mais"
 
     comp1.style.float = "left"
     comp1.style.marginTop = "130px"
@@ -117,7 +117,7 @@ function ent2() {
     img3.style.marginLeft = "4px"
 
     sai2.innerText = "Sair"
-    comp2.innerText = "Comprar"
+    comp2.innerText = "Ver Mais"
 
     comp2.style.float = "left"
     comp2.style.marginTop = "130px"
@@ -180,7 +180,7 @@ function ent3() {
     img1.style.marginLeft = "4px"
 
     sai3.innerText = "Sair"
-    comp3.innerText = "Comprar"
+    comp3.innerText = "Ver Mais"
 
     comp3.style.float = "left"
     comp3.style.marginTop = "130px"

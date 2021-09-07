@@ -1,29 +1,30 @@
 body {
-    background-color: rgb(113, 26, 163);
+    background-color: rgb(207, 171, 117);
 }
 h1 {
     text-align: center;
     font-size: 70px;
-    background-color: rgb(214, 61, 228);
+    background-color: rgb(165, 90, 56);
     width: 210px;
     height: 100px;
     border-radius: 20px;
-    margin-left: 800px;
+    margin-left: 830px;
 }
 div#c {
     width: 1450px;
     height: 1000px;
     margin-left: 200px;
     margin-right: 200px;
-    background-color: rgb(214, 61, 228);
+    box-shadow: 2px 2px 2px black;
+    background-color: rgb(165, 90, 56);
     border-radius: 10px;
 }
 div#volta {
     width: 210px;
     height: 70px;
-    margin-top: 860px;
+    margin-top: 160px;
     margin-left: 70px;
-    background-color: rgb(113, 26, 163);
+    background-color: rgb(207, 171, 117);
     border-radius: 10px;
     font: normal 50px Cursive;
     text-align: center;
@@ -31,4 +32,20 @@ div#volta {
 }
 a#avolta {
     color: black;
+}
+img#imgnum {
+    margin-top: 180px;
+    margin-left: 580px;
+    box-shadow: 0px 0px 0px 100px white;
+}
+div#sobre {
+    margin-top: 180px;
+    width: 900px;
+    margin-left: 300px;
+    font: normal 20px Arial;
+    text-align: center;
+    line-height: 35px;
+    background-color: rgb(207, 171, 117);
+    box-shadow: 0px 0px 0px 50px rgb(207, 171, 117);
+    border-radius: 20px;
 }
