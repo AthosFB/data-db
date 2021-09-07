@@ -8,6 +8,8 @@ let vrm3 = window.document.getElementById("vrm3")
 let img1 = window.document.getElementById("mdimg1")
 let img2 = window.document.getElementById("mdimg2")
 let img3 = window.document.getElementById("mdimg3")
+let comp1 = window.document.getElementById("sai1")
+
 function ent1() {
     m1.style.width = "620px"
     m1.style.height = "442px"
@@ -18,9 +20,13 @@ function ent1() {
     m3.style.width = "320px"
     m3.style.height = "229px"
 
-    vrm1.innerText = ""
-    vrm1.style.width = "0px"
-    vrm1.style.height = "0px"
+    vrm1.innerText = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae, eius deserunt consectetur sapiente libero dicta corporis amet recusandae reiciendis odit iure ipsa nobis autem commodi et voluptates ullam officiis sunt?"
+    vrm1.style.backgroundColor = "white"
+    vrm1.style.width = "400px"
+    vrm1.style.marginLeft = "100px"
+    vrm1.style.color = "black"
+    vrm1.style.lineHeight = "25px"
+    vrm1.style.fontSize = "20px"
 
     vrm2.style.marginTop = "60px"
     vrm2.style.marginLeft = "50px"
@@ -133,6 +139,12 @@ function entbusc() {
     img1.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
     img2.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
     img3.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
+}
+function entsai() {
+    comp1.style.textDecoration = "underline"
+}
+function saisai() {
+    comp1.style.textDecoration = "none"
 }
 function saiu() {
     m1.style.width = "420px"
