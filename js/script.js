@@ -52,8 +52,31 @@ function ent1() {
     img2.style.marginLeft = "4px"
     img3.style.marginLeft = "4px"
 
+
     sai1.innerText = "Sair"
     comp1.innerText = "Comprar"
+
+    comp1.style.float = "left"
+    comp1.style.marginTop = "130px"
+    comp1.style.marginLeft = "50px"
+    comp1.style.backgroundColor = "rgb(165, 90, 56)"
+    comp1.style.font = "normal 25px Arial"
+    comp1.style.color = "white"
+    comp1.style.height = "50px"
+    comp1.style.width = "130px"
+    comp1.style.lineHeight = "50px"
+    comp1.style.borderRadius = "20px"
+    comp1.style.textAlign = "center"
+
+    sai1.style.float = "right"
+    sai1.style.marginTop = "130px"
+    sai1.style.marginRight = "70px"
+    sai1.style.fontSize = "25px"
+    sai1.style.width = "74px"
+    sai1.style.height = "37.5px"
+    sai1.style.lineHeight = "37.5px"
+    sai1.style.textAlign = "center"
+    sai1.style.boxShadow = "0px 0px 0px 2px rgb(165, 90, 56)"
 }
 function ent2() {
     
@@ -95,6 +118,28 @@ function ent2() {
 
     sai2.innerText = "Sair"
     comp2.innerText = "Comprar"
+
+    comp2.style.float = "left"
+    comp2.style.marginTop = "130px"
+    comp2.style.marginLeft = "50px"
+    comp2.style.backgroundColor = "rgb(165, 90, 56)"
+    comp2.style.font = "normal 25px Arial"
+    comp2.style.color = "white"
+    comp2.style.height = "50px"
+    comp2.style.width = "130px"
+    comp2.style.lineHeight = "50px"
+    comp2.style.borderRadius = "20px"
+    comp2.style.textAlign = "center"
+
+    sai2.style.float = "right"
+    sai2.style.marginTop = "130px"
+    sai2.style.marginRight = "70px"
+    sai2.style.fontSize = "25px"
+    sai2.style.width = "74px"
+    sai2.style.height = "37.5px"
+    sai2.style.lineHeight = "37.5px"
+    sai2.style.textAlign = "center"
+    sai2.style.boxShadow = "0px 0px 0px 2px rgb(165, 90, 56)"
 }
 function ent3() {
     
@@ -109,9 +154,13 @@ function ent3() {
     m1.style.width = "320px"
     m1.style.height = "229px"
 
-    vrm3.innerText = ""
-    vrm3.style.width = "0px"
-    vrm3.style.height = "0px"
+    vrm3.innerText = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae, eius deserunt consectetur sapiente libero dicta corporis amet recusandae reiciendis odit iure ipsa nobis autem commodi et voluptates ullam officiis sunt?"
+    vrm3.style.backgroundColor = "white"
+    vrm3.style.width = "400px"
+    vrm3.style.marginLeft = "100px"
+    vrm3.style.color = "black"
+    vrm3.style.lineHeight = "25px"
+    vrm3.style.fontSize = "20px"
 
     vrm2.style.marginTop = "60px"
     vrm2.style.marginLeft = "50px"
@@ -129,6 +178,31 @@ function ent3() {
 
     img2.style.marginLeft = "4px"
     img1.style.marginLeft = "4px"
+
+    sai3.innerText = "Sair"
+    comp3.innerText = "Comprar"
+
+    comp3.style.float = "left"
+    comp3.style.marginTop = "130px"
+    comp3.style.marginLeft = "50px"
+    comp3.style.backgroundColor = "rgb(165, 90, 56)"
+    comp3.style.font = "normal 25px Arial"
+    comp3.style.color = "white"
+    comp3.style.height = "50px"
+    comp3.style.width = "130px"
+    comp3.style.lineHeight = "50px"
+    comp3.style.borderRadius = "20px"
+    comp3.style.textAlign = "center"
+
+    sai3.style.float = "right"
+    sai3.style.marginTop = "130px"
+    sai3.style.marginRight = "70px"
+    sai3.style.fontSize = "25px"
+    sai3.style.width = "74px"
+    sai3.style.height = "37.5px"
+    sai3.style.lineHeight = "37.5px"
+    sai3.style.textAlign = "center"
+    sai3.style.boxShadow = "0px 0px 0px 2px rgb(165, 90, 56)"
 }
 function entbusc() {
    
@@ -178,7 +252,6 @@ function saiu() {
 
     m2.style.width = "420px"
     m2.style.height = "300px"
-    m2.style.marginTop = "100px"
 
     m3.style.width = "420px"
     m3.style.height = "300px"
@@ -234,4 +307,22 @@ function saiu() {
     vrm3.style.color = "rgb(165, 90, 56)"
     vrm3.style.lineHeight = "40px"
     vrm3.style.fontSize = "17px"
+
+    sai1.style.height = "0px"
+    comp1.style.height = "0px"
+    sai2.style.height = "0px"
+    comp2.style.height = "0px"
+    sai3.style.height = "0px"
+    comp3.style.height = "0px"
+
+    sai1.style.width = "0px"
+    comp1.style.width = "0px"
+    sai2.style.width = "0px"
+    comp2.style.width = "0px"
+    sai3.style.width = "0px"
+    comp3.style.width = "0px"
+
+    sai1.style.boxShadow = "0px 0px 0px 0px red"
+    sai2.style.boxShadow = "0px 0px 0px 0px red"
+    sai3.style.boxShadow = "0px 0px 0px 0px red"
 }
