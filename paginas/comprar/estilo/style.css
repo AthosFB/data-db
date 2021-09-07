@@ -19,7 +19,7 @@ div#c {
     background-color: rgb(165, 90, 56);
     border-radius: 10px;
 }
-div#volta {
+p#txtvolta {
     width: 210px;
     height: 70px;
     margin-top: 160px;
@@ -29,6 +29,8 @@ div#volta {
     font: normal 50px Cursive;
     text-align: center;
     line-height: 70px;
+    float: left;
+    box-shadow: 3px 3px 3px black;
 }
 a#avolta {
     color: black;
@@ -48,4 +50,19 @@ div#sobre {
     background-color: rgb(207, 171, 117);
     box-shadow: 0px 0px 0px 50px rgb(207, 171, 117);
     border-radius: 20px;
+}
+a#comp {
+    width: 315px;
+    height: 105px;
+    margin-top: 160px;
+    float: right;
+    background-color: rgb(207, 171, 117);
+    border-radius: 10px;
+    font: normal 50px Cursive;
+    text-align: center;
+    line-height: 105px;
+    color: black;
+    margin-right: 70px;
+    box-shadow: 3px 3px 3px black;
+
 }
