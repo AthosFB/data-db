@@ -8,9 +8,16 @@ let vrm3 = window.document.getElementById("vrm3")
 let img1 = window.document.getElementById("mdimg1")
 let img2 = window.document.getElementById("mdimg2")
 let img3 = window.document.getElementById("mdimg3")
-let comp1 = window.document.getElementById("sai1")
-
+let sai1 = window.document.getElementById("sai1")
+let comp1 = window.document.getElementById("compra1")
+let sai2 = window.document.getElementById("sai2")
+let comp2 = window.document.getElementById("compra2")
+let sai3 = window.document.getElementById("sai3")
+let comp3 = window.document.getElementById("compra3")
 function ent1() {
+
+    saiu()
+
     m1.style.width = "620px"
     m1.style.height = "442px"
 
@@ -44,8 +51,14 @@ function ent1() {
 
     img2.style.marginLeft = "4px"
     img3.style.marginLeft = "4px"
+
+    sai1.innerText = "Sair"
+    comp1.innerText = "Comprar"
 }
 function ent2() {
+    
+    saiu()
+
     m2.style.width = "620px"
     m2.style.height = "442px"
 
@@ -55,9 +68,13 @@ function ent2() {
     m3.style.width = "320px"
     m3.style.height = "229px"
 
-    vrm2.innerText = ""
-    vrm2.style.width = "0px"
-    vrm2.style.height = "0px"
+    vrm2.innerText = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae, eius deserunt consectetur sapiente libero dicta corporis amet recusandae reiciendis odit iure ipsa nobis autem commodi et voluptates ullam officiis sunt?"
+    vrm2.style.backgroundColor = "white"
+    vrm2.style.width = "400px"
+    vrm2.style.marginLeft = "100px"
+    vrm2.style.color = "black"
+    vrm2.style.lineHeight = "25px"
+    vrm2.style.fontSize = "20px"
 
     vrm1.style.marginTop = "60px"
     vrm1.style.marginLeft = "50px"
@@ -75,8 +92,14 @@ function ent2() {
 
     img1.style.marginLeft = "4px"
     img3.style.marginLeft = "4px"
+
+    sai2.innerText = "Sair"
+    comp2.innerText = "Comprar"
 }
 function ent3() {
+    
+    saiu()
+
     m3.style.width = "620px"
     m3.style.height = "442px"
 
@@ -108,6 +131,9 @@ function ent3() {
     img1.style.marginLeft = "4px"
 }
 function entbusc() {
+   
+    saiu()
+
     busc.style.width = "540px"
     busc.style.height = "1500px"
 
@@ -141,10 +167,10 @@ function entbusc() {
     img3.style.boxShadow = "0px 0px 0px 0px rgb(165, 90, 56)"
 }
 function entsai() {
-    comp1.style.textDecoration = "underline"
+    sai1.style.textDecoration = "underline"
 }
 function saisai() {
-    comp1.style.textDecoration = "none"
+    sai1.style.textDecoration = "none"
 }
 function saiu() {
     m1.style.width = "420px"
@@ -188,4 +214,24 @@ function saiu() {
     img1.style.boxShadow = "0px 0px 0px 2px rgb(165, 90, 56)"
     img2.style.boxShadow = "0px 0px 0px 2px rgb(165, 90, 56)"
     img3.style.boxShadow = "0px 0px 0px 2px rgb(165, 90, 56)"
+
+    sai1.innerText = ""
+    comp1.innerText = ""
+    sai2.innerText = ""
+    comp2.innerText = ""
+    sai3.innerText = ""
+    comp3.innerText = ""
+
+    vrm1.style.backgroundColor = "rgb(44, 42, 42)"
+    vrm1.style.color = "rgb(165, 90, 56)"
+    vrm1.style.lineHeight = "40px"
+    vrm1.style.fontSize = "17px"
+    vrm2.style.backgroundColor = "rgb(44, 42, 42)"
+    vrm2.style.color = "rgb(165, 90, 56)"
+    vrm2.style.lineHeight = "40px"
+    vrm2.style.fontSize = "17px"
+    vrm3.style.backgroundColor = "rgb(44, 42, 42)"
+    vrm3.style.color = "rgb(165, 90, 56)"
+    vrm3.style.lineHeight = "40px"
+    vrm3.style.fontSize = "17px"
 }
