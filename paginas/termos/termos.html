@@ -14,10 +14,10 @@
         font-size: 70px;
         background-color: rgb(165, 90, 56);
         line-height: 100px;
-        width: 310px;
+        width: 610px;
         height: 100px;
         border-radius: 20px;
-        margin-left: 790px;
+        margin-left: 610px;
     }
     div#c {
         width: 1450px;
@@ -28,9 +28,37 @@
         background-color: rgb(165, 90, 56);
         border-radius: 10px;
     }
+    div#conf {
+        font: normal 20px Times;
+        line-height: 40px;
+    }
     </style>
 </head>
 <body>
     <h1>Termos e Condições</h1>
+    <div id="c">
+
+        <div id="conf">
+            <input type="checkbox" name="conf" id="aceito">
+            <label for="aceito">Aceito os Termos e Condições</label>
+            <br>
+            <input type="button" value="Continuar" onclick="clicou()">
+            <div id="res"></div>
+
+        </div>
+
+    </div>
+    <script>
+        let acei = document.getElementsByName("conf")[0]
+        let res = window.document.getElementById("res")
+        function clicou() {
+            if (acei.checked) {
+                res.innerHTML = '<a href="../finalizacao/fim1.html">Continuar a Compra</a>'
+            }
+            else {
+                window.alert("Aceite os Termos")
+            }
+        }
+    </script>
 </body>
 </html>
