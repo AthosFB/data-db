@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(207, 171, 117);
+}
+div#c {
+    width: 1450px;
+    height: 1000px;
+    margin-left: 200px;
+    margin-right: 200px;
+    box-shadow: 2px 2px 2px black;
+    background-color: rgb(165, 90, 56);
+    border-radius: 10px;
+}
