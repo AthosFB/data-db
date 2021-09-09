@@ -8,7 +8,6 @@ div#c {
     margin-right: 100px;
     background-color: rgb(165, 90, 56);
     border-radius: 20px;
-
 }
 h1#title {
     font: normal 80px Cursive;
@@ -16,7 +15,7 @@ h1#title {
     margin-left: 100px;
     width: 1650px;
     height: 110px;
-    line-height: 110px;
+    line-height: 0px;
 }
 div#md1 {
     background-color: white;
