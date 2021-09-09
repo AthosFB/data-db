@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(112, 177, 230);
+    background-color: rgb(0, 217, 255);
 }
 div#c {
     width: 1650px;
@@ -11,11 +11,12 @@ div#c {
     box-shadow: 0px 0px 0px 3px black;
 }
 h1#title {
-    font: normal 80px Cursive;
+    font: normal 80px Candara;
     background-color: rgb(36, 115, 180);
     text-align: center;
     height: 200px;
     line-height: 200px;
+    box-shadow: 3px 3px 3px black;
 }
 div#md1 {
     background-color: white;
