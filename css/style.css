@@ -61,6 +61,7 @@ div#vrm1 {
     background-color: rgb(44, 42, 42);
     width: 210px;
     height: 40px;
+    font-size: 20px;
     text-align: center;
     line-height: 40px;
     margin-top: 60px;
@@ -71,6 +72,7 @@ div#vrm2 {
     background-color: rgb(44, 42, 42);
     width: 210px;
     height: 40px;
+    font-size: 20px;
     text-align: center;
     line-height: 40px;
     margin-top: 60px;
@@ -81,6 +83,7 @@ div#vrm3 {
     background-color: rgb(44, 42, 42);
     width: 210px;
     height: 40px;
+    font-size: 20px;
     text-align: center;
     line-height: 40px;
     margin-top: 60px;
