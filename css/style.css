@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(0, 217, 255);
+    background-image: linear-gradient(rgb(36, 115, 180), white);
 }
 div#c {
     width: 1650px;
@@ -16,7 +16,9 @@ h1#title {
     text-align: center;
     height: 200px;
     line-height: 200px;
-    box-shadow: 3px 3px 3px black;
+    box-shadow: 0px 0px 0px 3px black;
+    background-image: linear-gradient(to right, rgb(36, 115, 180), rgb(58, 136, 199), rgb(107, 169, 219), rgb(152, 196, 231));
+
 }
 div#md1 {
     background-color: white;
