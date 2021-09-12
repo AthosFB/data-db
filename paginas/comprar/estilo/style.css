@@ -55,13 +55,14 @@ div#sobre {
 a#comp {
     width: 315px;
     height: 105px;
-    margin-top: 160px;
+    margin-top: 120px;
     float: right;
-    background-color: #E48A39;
+    background-color: white;
     border-radius: 10px;
     font: normal 50px Verdana;
     text-align: center;
     line-height: 105px;
     margin-right: 70px;
     color: black;
+    box-shadow: 50px 50px black;
 }

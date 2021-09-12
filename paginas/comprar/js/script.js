@@ -14,9 +14,13 @@ function saiu() {
 }
 function entcomp() {
     comp.style.fontSize = "65px"
-    comp.style.boxShadow = "6px 6px 6px black"
+    comp.style.boxShadow = "25px 25px black"
+    comp.style.marginTop = "90px"
+    comp.style.marginRight = "90px"
 }
 function saicomp() {
     comp.style.fontSize = "50px"
-    comp.style.boxShadow = "3px 3px 3px black"
+    comp.style.boxShadow = "50px 50px black"
+    comp.style.marginTop = "120px"
+    comp.style.marginRight = "70px"
 }
