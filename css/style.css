@@ -1,18 +1,18 @@
 body {
-    background-image: linear-gradient(#1115AD, white);
+    background-image: linear-gradient(#183543, white);
 }
 div#c {
     width: 1650px;
     height: 1800px;
     margin-left: 100px;
     margin-right: 100px;
-    background-color: #007BE0;
+    background-color: #0071C5;
     border-radius: 20px;
     box-shadow: 0px 0px 0px 3px black;
 }
 h1#title {
     font: normal 80px Candara;
-    background-color: #007BE0;
+    background-color: #0071C5;
     text-align: center;
     height: 200px;
     line-height: 200px;
@@ -49,7 +49,7 @@ div#md3 {
     box-shadow: 3px 3px 3px black;
 }
 div#busca {
-    background-color: #222586;
+    background-color: #000B4D;
     width: 300px;
     height: 1500px;
     float: left;
@@ -58,7 +58,7 @@ div#busca {
     border-radius: 20px;
 }
 div#vrm1 {
-    background-color: #222586;
+    background-color: #000B4D;
     width: 210px;
     height: 40px;
     font-size: 20px;
@@ -69,7 +69,7 @@ div#vrm1 {
     color: #E48A39;
 }
 div#vrm2 {
-    background-color: #222586;
+    background-color: #000B4D;
     width: 210px;
     height: 40px;
     font-size: 20px;
@@ -80,7 +80,7 @@ div#vrm2 {
     color: #E48A39;
 }
 div#vrm3 {
-    background-color: #222586;
+    background-color: #000B4D;
     width: 210px;
     height: 40px;
     font-size: 20px;
