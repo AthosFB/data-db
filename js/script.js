@@ -45,9 +45,9 @@ function ent1() {
     img2.style.marginTop = "20px"
     img3.style.marginTop = "20px"
 
-    img1.style.boxShadow = "0px 0px 0px 6px rgb(36, 115, 180)"
-    img2.style.boxShadow = "0px 0px 0px 0px rgb(36, 115, 180)"
-    img3.style.boxShadow = "0px 0px 0px 0px rgb(36, 115, 180)"
+    img1.style.boxShadow = "0px 0px 0px 6px #E48A39"
+    img2.style.boxShadow = "0px 0px 0px 0px #E48A39"
+    img3.style.boxShadow = "0px 0px 0px 0px #E48A39"
 
     img2.style.marginLeft = "4px"
     img3.style.marginLeft = "4px"
@@ -59,7 +59,7 @@ function ent1() {
     comp1.style.float = "left"
     comp1.style.marginTop = "130px"
     comp1.style.marginLeft = "50px"
-    comp1.style.backgroundColor = "rgb(36, 115, 180)"
+    comp1.style.backgroundColor = "#E48A39"
     comp1.style.font = "normal 25px Arial"
     comp1.style.color = "white"
     comp1.style.height = "50px"
@@ -76,7 +76,7 @@ function ent1() {
     sai1.style.height = "37.5px"
     sai1.style.lineHeight = "37.5px"
     sai1.style.textAlign = "center"
-    sai1.style.boxShadow = "0px 0px 0px 2px rgb(36, 115, 180)"
+    sai1.style.boxShadow = "0px 0px 0px 2px #E48A39"
 }
 function ent2() {
     
@@ -109,9 +109,9 @@ function ent2() {
     img1.style.marginTop = "20px"
     img3.style.marginTop = "20px"
 
-    img2.style.boxShadow = "0px 0px 0px 6px rgb(36, 115, 180)"
-    img1.style.boxShadow = "0px 0px 0px 0px rgb(36, 115, 180)"
-    img3.style.boxShadow = "0px 0px 0px 0px rgb(36, 115, 180)"
+    img2.style.boxShadow = "0px 0px 0px 6px #E48A39"
+    img1.style.boxShadow = "0px 0px 0px 0px #E48A39"
+    img3.style.boxShadow = "0px 0px 0px 0px #E48A39"
 
     img1.style.marginLeft = "4px"
     img3.style.marginLeft = "4px"
@@ -122,7 +122,7 @@ function ent2() {
     comp2.style.float = "left"
     comp2.style.marginTop = "130px"
     comp2.style.marginLeft = "50px"
-    comp2.style.backgroundColor = "rgb(36, 115, 180)"
+    comp2.style.backgroundColor = "#E48A39"
     comp2.style.font = "normal 25px Arial"
     comp2.style.color = "white"
     comp2.style.height = "50px"
@@ -139,7 +139,7 @@ function ent2() {
     sai2.style.height = "37.5px"
     sai2.style.lineHeight = "37.5px"
     sai2.style.textAlign = "center"
-    sai2.style.boxShadow = "0px 0px 0px 2px rgb(36, 115, 180)"
+    sai2.style.boxShadow = "0px 0px 0px 2px #E48A39"
 }
 function ent3() {
     
@@ -172,9 +172,9 @@ function ent3() {
     img2.style.marginTop = "20px"
     img1.style.marginTop = "20px"
 
-    img3.style.boxShadow = "0px 0px 0px 6px rgb(36, 115, 180)"
-    img2.style.boxShadow = "0px 0px 0px 0px rgb(36, 115, 180)"
-    img1.style.boxShadow = "0px 0px 0px 0px rgb(36, 115, 180)"
+    img3.style.boxShadow = "0px 0px 0px 6px #E48A39"
+    img2.style.boxShadow = "0px 0px 0px 0px #E48A39"
+    img1.style.boxShadow = "0px 0px 0px 0px #E48A39"
 
     img2.style.marginLeft = "4px"
     img1.style.marginLeft = "4px"
@@ -185,7 +185,7 @@ function ent3() {
     comp3.style.float = "left"
     comp3.style.marginTop = "130px"
     comp3.style.marginLeft = "50px"
-    comp3.style.backgroundColor = "rgb(36, 115, 180)"
+    comp3.style.backgroundColor = "#E48A39"
     comp3.style.font = "normal 25px Arial"
     comp3.style.color = "white"
     comp3.style.height = "50px"
@@ -202,7 +202,7 @@ function ent3() {
     sai3.style.height = "37.5px"
     sai3.style.lineHeight = "37.5px"
     sai3.style.textAlign = "center"
-    sai3.style.boxShadow = "0px 0px 0px 2px rgb(36, 115, 180)"
+    sai3.style.boxShadow = "0px 0px 0px 2px #E48A39"
 }
 function entbusc() {
    
@@ -284,9 +284,9 @@ function saiu() {
     img2.style.marginLeft = "52.5px"
     img3.style.marginLeft = "52.5px"
 
-    img1.style.boxShadow = "0px 0px 0px 2px rgb(36, 115, 180)"
-    img2.style.boxShadow = "0px 0px 0px 2px rgb(36, 115, 180)"
-    img3.style.boxShadow = "0px 0px 0px 2px rgb(36, 115, 180)"
+    img1.style.boxShadow = "0px 0px 0px 2px #E48A39"
+    img2.style.boxShadow = "0px 0px 0px 2px #E48A39"
+    img3.style.boxShadow = "0px 0px 0px 2px #E48A39"
 
     sai1.innerText = ""
     comp1.innerText = ""
@@ -295,16 +295,16 @@ function saiu() {
     sai3.innerText = ""
     comp3.innerText = ""
 
-    vrm1.style.backgroundColor = "rgb(44, 42, 42)"
-    vrm1.style.color = "rgb(36, 115, 180)"
+    vrm1.style.backgroundColor = "#31337A"
+    vrm1.style.color = "#E48A39"
     vrm1.style.lineHeight = "40px"
     vrm1.style.fontSize = "17px"
-    vrm2.style.backgroundColor = "rgb(44, 42, 42)"
-    vrm2.style.color = "rgb(36, 115, 180)"
+    vrm2.style.backgroundColor = "#31337A"
+    vrm2.style.color = "#E48A39"
     vrm2.style.lineHeight = "40px"
     vrm2.style.fontSize = "17px"
-    vrm3.style.backgroundColor = "rgb(44, 42, 42)"
-    vrm3.style.color = "rgb(36, 115, 180)"
+    vrm3.style.backgroundColor = "#31337A"
+    vrm3.style.color = "#E48A39"
     vrm3.style.lineHeight = "40px"
     vrm3.style.fontSize = "17px"
 
