@@ -1,9 +1,10 @@
 body {
-    background-image: linear-gradient(#AD4411, #E48A39);
+    background-image: linear-gradient(#1B3745, #39525E, #0071C5);
 }
 div#cabe {
     height: 150px;
     background-color: #E48A39;
+    box-shadow: 3px 3px 3px black;
 }
 h1 {
     text-align: center;
