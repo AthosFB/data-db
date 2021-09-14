@@ -54,9 +54,10 @@
         color: white;
         background-image: linear-gradient(#1B3745, #39525E, #0071C5);
     }
-    div#res {
+    div#title {
         float: right;
-        margin-right: 200px;
+        margin-right: 140px;
+        margin-top: 70px;
         font: normal 50px Arial;
         box-shadow: 3px 3px 3px black;
     }
@@ -65,13 +66,12 @@
 <body>
     <h1>Termos e Condições</h1>
     <div id="c">
-
+        <div id="res"></div>
         <div id="termos">
             <ol>
                 <li>Qualquer informação errada que você colocar será responsabilidade sua.</li>
                 <li>Compras não tem rembolso.</li>
                 <li>Qualquer Duvida ou problema use o  email opento.verify@gmail.com.</li>
-                <div id="res" onmouseenter="entcomp()"></div>
                 <li>Atendimento via email das 10:00 A 11:40 e 18:00 21:00 Segunda a Sexta</li>
             </ol>
         </div>
@@ -89,14 +89,9 @@
     <script>
         let acei = document.getElementsByName("conf")[0]
         let res = window.document.getElementById("res")
-        function entcomp() {
-            res.style.boxShadow = "6px 6px 6px black"
-            res.style.fontSize = "60px"
-            res.style.marginRight = "120px"
-        }
         function clicou() {
             if (acei.checked) {
-                res.innerHTML = '<a href="../finalizacao/fim1.html">Continuar a Compra</a>'
+                res.innerHTML = '<div id="title">Continuar a Compra</div> <br> <a href="../finalizacao/fim1.html">Carteira Bitcoin</a>'
             }
             else {
                 window.alert("Aceite os Termos")
