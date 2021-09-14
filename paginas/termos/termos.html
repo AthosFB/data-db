@@ -61,6 +61,13 @@
         font: normal 50px Arial;
         box-shadow: 3px 3px 3px black;
     }
+    a#bitcoin {
+        color: white;
+        float: right;
+        font: normal 30px Arial;
+        margin-right: 260px;
+        margin-top: 70px;
+    }
     </style>
 </head>
 <body>
@@ -71,6 +78,7 @@
             <ol>
                 <li>Qualquer informação errada que você colocar será responsabilidade sua.</li>
                 <li>Compras não tem rembolso.</li>
+                <div id="link"></div>
                 <li>Qualquer Duvida ou problema use o  email opento.verify@gmail.com.</li>
                 <li>Atendimento via email das 10:00 A 11:40 e 18:00 21:00 Segunda a Sexta</li>
             </ol>
@@ -89,9 +97,11 @@
     <script>
         let acei = document.getElementsByName("conf")[0]
         let res = window.document.getElementById("res")
+        let link = window.document.getElementById("link")
         function clicou() {
             if (acei.checked) {
-                res.innerHTML = '<div id="title">Continuar a Compra</div> <br> <a href="../finalizacao/fim1.html">Carteira Bitcoin</a>'
+                res.innerHTML = '<div id="title">Continuar a Compra</div> <br>'
+                link.innerHTML = '<a href="../finalizacao/fim1.html" id="bitcoin">Carteira Bitcoin</a>'
             }
             else {
                 window.alert("Aceite os Termos")
